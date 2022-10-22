@@ -5,5 +5,6 @@
 - 🌱 I’m currently learning vue
 - 📫 如何联系我weChat: dalaohekele
 
-掘金社区: [掘金社区](https://juejin.cn/user/1570568155701053)
+[掘金社区](https://juejin.cn/user/1570568155701053)
+微信公众号
 ![微信公众号](https://user-images.githubusercontent.com/18478754/197330866-60cff942-c11c-42fc-b119-017a9c4022bd.png)
